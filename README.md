@@ -9,7 +9,7 @@
 This is a maintained version of the wonderful but now deprecated original [Laravel Shopify App](https://github.com/gnikyt/laravel-shopify/). To keep things clean, this has been detached from the original.
 
 ----
-To install this package run:
+To install this package run the following:
 ```
 composer require kyon147/laravel-shopify
 ```
@@ -63,7 +63,7 @@ This project is released under the MIT [license](LICENSE).
 
 #### Contributors
 
-Contributions are always welcome! Contibutors are updated each release, pulled from Github. See [`CONTRIBUTORS.txt`](CONTRIBUTORS.txt).
+Contributions are always welcome! Contributors are updated each release, pulled from GitHub. See [`CONTRIBUTORS.txt`](CONTRIBUTORS.txt).
 
 If you're looking to become a contributor, please see [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
@@ -71,7 +71,7 @@ If you're looking to become a contributor, please see [`CONTRIBUTING.md`](CONTRI
 
 Maintainers are users who manage the repository itself, whether it's managing the issues, assisting in releases, or helping with pull requests.
 
-Currently this repository is maintained by:
+Currently, this repository is maintained by:
 
 - [@kyon147](https://github.com/kyon147)
 - ~[@gnikyt](https://github.com/gnikyt)~ Original author of the package. See [announcement](https://github.com/gnikyt/laravel-shopify/discussions/1276) for details.
@@ -80,4 +80,4 @@ Looking to become a maintainer? E-mail @kyon147 directly.
 
 ### Special Note
 
-I develop this package in my spare time, with a busy family/work life like many of you! So, I would like to thank everyone who's helped me out from submitting PRs, to assisting on issues, and plain using the package (I hope its useful). Cheers.
+I develop this package in my spare time, with a busy family/work life like many of you! So, I would like to thank everyone who's helped me out from submitting PRs to assisting with issues, and plan using the package (I hope it's useful). Cheers.
